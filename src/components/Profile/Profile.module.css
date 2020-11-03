@@ -1,0 +1,13 @@
+.content .headerImg{
+  height: 150px;
+  width: 100%;
+}
+  
+.content.text{
+  text-align: left;
+  padding-left: 10%;
+}
+
+.content{
+  text-align: center;
+}
